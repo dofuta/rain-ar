@@ -1,6 +1,8 @@
 # rain-ar
 ## Supported environment
-Any browser with WebGL and WebRTC (for iOS, you need to update to iOS11)
+Any browser with WebGL and WebRTC 
+(for iOS, you need to update to iOS11)
+(for Android, you need to update to Android 5.0)
 
 ### WebRTC browser support
 - https://caniuse.com/#search=webrtc
