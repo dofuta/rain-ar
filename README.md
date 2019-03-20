@@ -5,8 +5,8 @@ Any browser with WebGL and WebRTC (for iOS, you need to update to iOS11)
 ### WebRTC browser support
 - https://caniuse.com/#search=webrtc
 ### WebGL browser support
-- https://developer.mozilla.org/ja/docs/Web/API/WebGL_API#Browser_compatibility
 - https://caniuse.com/#search=webgl
+- https://developer.mozilla.org/ja/docs/Web/API/WebGL_API#Browser_compatibility
 
 ### iOS Share
 - https://developer.apple.com/support/app-store/
